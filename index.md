@@ -1,5 +1,5 @@
 # Student Loan Bill Tracker
-*Last updated: 7 July 2018*
+*Last updated: {{ page.path | file_date | date_to_string }}*
 
 If you like a bill, tell your senator or representative to co-sign it.
 
