@@ -1,4 +1,3 @@
-{% include_relative RightBar.md %}
 # Student Loan Bill Tracker
 *Last updated: 7 July 2018*
 
