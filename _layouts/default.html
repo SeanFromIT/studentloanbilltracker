@@ -57,9 +57,10 @@
       		google_ad_height = 600;
       		//-->
       	</script>
-
+		<script src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+		<br><br>
         {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        <p class="view"><a href="{{ site.github.repository_url }}">View this Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
         {% if site.github.is_user_page %}
@@ -79,11 +80,29 @@
       {{ content }}
 
       </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-      </footer>
+	  <footer>
+		<script>
+			<!--
+			google_ad_client = "ca-pub-0099932842510810";
+			/* studentloan footer */
+			google_ad_slot = "2213926879";
+			google_ad_width = 728;
+			google_ad_height = 90;
+			//-->
+		</script>
+		<script src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+		<!-- Start Quantcast tag -->
+		<script>
+			_qoptions={
+			qacct:"p-11eG58csMgXm2"
+			};
+		</script>
+		<script src="https://edge.quantserve.com/quant.js"></script>
+		<noscript>
+			<img style="border:0" src="https://pixel.quantserve.com/pixel/p-11eG58csMgXm2.gif" style="display: none;" height="1" width="1" alt="Quantcast"/>
+		</noscript>
+		<!-- End Quantcast tag -->
+	  </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
