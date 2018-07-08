@@ -14,9 +14,13 @@ body {
   padding-top: none;
   height: auto;
 }
+header {
+  position: static;
+}
 section {
   width: 70%;
 }
 footer {
-  position: static
+  position: static;
+  width: 350px;
 }

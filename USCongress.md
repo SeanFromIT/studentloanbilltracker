@@ -270,7 +270,7 @@ Safeguards student loan debtors by preventing employers from making decisions ba
 Status: 9/23/2010 - Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral. 
 
 
-**<a id="hr5458" target="_blank" href="https://www.opencongress.org/bill/hr890-110/show">H.R. 890 (Student Loan Sunshine Act)</a>** -
+**<a id="hr890" target="_blank" href="https://www.opencongress.org/bill/hr890-110/show">H.R. 890 (Student Loan Sunshine Act)</a>** -
 House version of Ted Kennedy's bill to increase transparency around student loans.
 
 Status: 5/9/2007 - Passed to Senate. 

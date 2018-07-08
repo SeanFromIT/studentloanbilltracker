@@ -11,7 +11,7 @@ If you like a bill, tell your senator or representative to co-sign it.
 
 {% include_relative USCongress.md %}
 
-<script type="text/javascript"><!--
+<script><!--
 google_ad_client = "ca-pub-0099932842510810";
 /* studentloan footer */
 google_ad_slot = "2213926879";
@@ -19,19 +19,14 @@ google_ad_width = 728;
 google_ad_height = 90;
 //-->
 </script>
-<script type="text/javascript"
-	src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-<script type="text/javascript">
-  document.write('<scr' + 'ipt type="text/javascript" src="' + ('https:' == document.location.protocol ? 'https://' : 'http://') + 'publisher.monster.com/Services/WidgetHandler.ashx?WidgetID=EAAQyVQ9qTWY_fSIhEjzk8jjtg--&Verb=Initialize"></scr' + 'ipt>');
-</script><noscript><a id="monsterBrowseLinkICwAAA_e_e" class="monsterBrowseLink fnt4" href="http://jobsearch.monster.com/browse/">Search For Jobs on Monster</a></noscript>
+<script src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 <!-- Start Quantcast tag -->
-<script type="text/javascript">
+<script>
 _qoptions={
 qacct:"p-11eG58csMgXm2"
 };
 </script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script src="http://edge.quantserve.com/quant.js"></script>
 <noscript>
 	<img style="border:0" src="http://pixel.quantserve.com/pixel/p-11eG58csMgXm2.gif" style="display: none;" height="1" width="1" alt="Quantcast"/>
 </noscript>
