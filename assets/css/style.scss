@@ -41,8 +41,8 @@ section {
   float: none;
   width: 100%;
 }
-.ulFix li {
-  margin-left: 20px;
+.ulFix {
+  overflow: hidden;
 }
 footer {
   position: static;
