@@ -14,11 +14,15 @@ body {
   padding-top: none;
   height: auto;
 }
+#blogroll li {
+  float: none;
+}
 header {
   position: static;
 }
 section {
   width: 70%;
+  float: none;
 }
 footer {
   position: static;
