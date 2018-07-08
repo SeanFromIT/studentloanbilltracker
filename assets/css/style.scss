@@ -5,6 +5,14 @@
 body {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
 }
+wrapper {
+  width: 80%;
+}
+header {
+  position: static;
+  width: 350px;
+  height: 100%;
+}
 #blogroll {
   list-style-type: none;
   text-align:left;
@@ -13,12 +21,14 @@ body {
   text-align: left;
   padding-top: none;
   height: auto;
+  background: #fff
+}
+#blogroll a {
+  display: inline;
 }
 #blogroll li {
   float: none;
-}
-header {
-  position: static;
+  text-align: left;
 }
 section {
   width: 70%;
@@ -26,5 +36,4 @@ section {
 }
 footer {
   position: static;
-  width: 350px;
 }
