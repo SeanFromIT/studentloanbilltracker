@@ -16,6 +16,7 @@ header {
 #blogroll {
   list-style-type: none;
   text-align:left;
+  border: 0;
   border-radius: 0;
   text-decoration: underline;
   text-align: left;
@@ -25,10 +26,14 @@ header {
 }
 #blogroll a {
   display: inline;
+  font-size: 100%;
+  color: #267CB9;
 }
 #blogroll li {
   float: none;
   text-align: left;
+  border-right: 0;
+  height: auto;
 }
 section {
   width: 70%;
