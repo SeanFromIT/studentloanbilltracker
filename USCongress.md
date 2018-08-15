@@ -1,117 +1,135 @@
 ## Senate Bills
 
-**<a id="s2677" target="_blank" href="https://popvox.com/bills/us/114/s2677">S. 2677 (In The RED Act)</a>** -
+**<a id="s3065" target="_blank" href="https://www.popvox.com/us/federal/bills/115/s3065">S. 3065 (Protecting JOBs Act)</a>** -
+Bipartisan bill to stops state from making laws that result in the revocation of state-issued professional and teaching licenses, as well as driver licenses solely on the basis of a federal student loan default.
+
+Status: 6/14/2018 - Referred to the Senate Committee on Health, Education, Labor, and Pensions.
+
+
+**<a id="s799" target="_blank" href="https://www.popvox.com/us/federal/bills/115/s799">S. 799 (Dynamic Repayment Act of 2017)</a>** -
+Bipartisan bill to simplify and improve the Federal student loan program through income-contingent repayment to provide stronger protections for borrowers, encourage responsible borrowing, and save money for taxpayers.
+
+Status: 5/30/2017 - Referred to the Senate Committee on Finance.
+
+
+**<a id="s796" target="_blank" href="https://www.popvox.com/us/federal/bills/115/s796">S.796 (Employer Participation in Repayment Act of 2017)</a>** -
+Expands Section 127 law (which allows employers to offer up to $5250 in annual education assistance) to include past education (student loan reimbursement), not just current and future (tuition reimbursement). Formerly H.R. 3861 in the 114th Congress where it got stuck in the House Committee on Ways and Means.
+
+Status: 3/30/2017 - Referred to the Senate Committee on Finance.
+
+
+**<a id="s2677" target="_blank" href="https://www.congress.gov/bill/114th-congress/senate-bill/2677">S. 2677 (In The RED Act)</a>** -
 Senate Democrats' higher education omnibus bill for 2016. The combination of <a href="#hr2962">H.R. 2962</a>, <a href="#s793">S. 793</a>, and <a href="#s1061">S. 1061</a>.
 
-Status: 3/5/2016 - Referred to the Senate Committee on Finance.
+Status: 3/5/2016 - Stuck in the Senate Committee on Finance.
 
 
-**<a id="s2191" target="_blank" href="https://popvox.com/bills/us/114/s2191">S. 2191 (Partnerships Act)</a>** -
+**<a id="s2191" target="_blank" href="https://www.congress.gov/bill/114th-congress/senate-bill/2191">S. 2191 (Partnerships Act)</a>** -
 Doubles the cap on Section 127 law (to $10,500 in annual education assistance) and expands it to include past education (student loan reimbursement), not just current and future (tuition reimbursement). Further, it expands the coverage to include the employee's spouses and dependents.
 
-Status: 10/21/2015 - Referred to the Senate Committee on Finance.
+Status: 10/21/2015 - Stuck in the Senate Committee on Finance.
 
 
-**<a id="s2099" target="_blank" href="https://www.popvox.com/bills/us/114/s2099">S. 2099 (Student Loan Relief Act of 2015)</a>** -
+**<a id="s2099" target="_blank" href="https://www.congress.gov/bill/114th-congress/senate-bill/2099">S. 2099 (Student Loan Relief Act of 2015)</a>** -
 Senate version of the Republican's <a href="#hr4102">H.R. 4102</a>.
 
-Status: 9/29/2015 - Referred to the Senate Committee on Finance.
+Status: 9/29/2015 - Stuck in the Senate Committee on Finance.
 
 
-**<a id="s1556" target="_blank" href="https://www.popvox.com/bills/us/114/s1556">S. 1556 (Adjunct Faculty Loan Fairness Act)</a>** -
+**<a id="s1556" target="_blank" href="https://www.congress.gov/bill/114th-congress/senate-bill/1556">S. 1556 (Adjunct Faculty Loan Fairness Act)</a>** -
 Durbin's bill to allow adjunct professors access to the Public Service Loan Forgiveness Program just like full-time professors.
 
-Status: 6/11/2015 - Referred to the Senate Committee on Health, Education, Labor and Pensions.
+Status: 6/11/2015 - Stuck in the Senate Committee on Health, Education, Labor and Pensions.
 
 
-**<a id="s1373" target="_blank" href="https://www.popvox.com/bills/us/114/s1373">S. 1373 (College for All Act)</a>** -
+**<a id="s1373" target="_blank" href="https://www.congress.gov/bill/114th-congress/senate-bill/1373">S. 1373 (College for All Act)</a>** -
 Sanders' bill to make all public colleges tuition and fees free.
 
-Status: 5/19/2015 - Referred to the Senate Committee on Finance.
+Status: 5/19/2015 - Stuck in the Senate Committee on Finance.
 
 
-**<a id="s1060" target="_blank" href="https://www.popvox.com/bills/us/114/s1060">S. 1060 (Pell Grant Protection Act)</a>** -
+**<a id="s1060" target="_blank" href="https://www.congress.gov/bill/114th-congress/senate-bill/1060">S. 1060 (Pell Grant Protection Act)</a>** -
 Converts the Pell Grant program into a mandatory spending program, ensuring all eligible students can receive the maximum amount minus EFC annually.
 
-Status: 4/22/2015 - Referred to the Senate Committee on Health, Education, Labor and Pensions.
+Status: 4/22/2015 - Stuck in the Senate Committee on Health, Education, Labor and Pensions.
 
 
-**<a id="s1061" target="_blank" href="https://www.popvox.com/bills/us/114/s1061">S. 1061 (Pell Grant Cost of Tuition Adjustment Act)</a>** -
+**<a id="s1061" target="_blank" href="https://www.congress.gov/bill/114th-congress/senate-bill/1061">S. 1061 (Pell Grant Cost of Tuition Adjustment Act)</a>** -
 Increases the Pell Grant payout annually based on inflation.
 
-Status: 4/22/2015 - Referred to the Senate Committee on Health, Education, Labor and Pensions.
+Status: 4/22/2015 - Stuck in the Senate Committee on Health, Education, Labor and Pensions.
 
 
-**<a id="s1062" target="_blank" href="https://www.popvox.com/bills/us/114/s1062">S. 1062 (Year-Round Pell Grant Restoration Act)</a>** -
+**<a id="s1062" target="_blank" href="https://www.congress.gov/bill/114th-congress/senate-bill/1062">S. 1062 (Year-Round Pell Grant Restoration Act)</a>** -
 Allows year-round students to receive additional Pell Grant funding to cover the (summer) semester that otherwise would not be covered, even if that student has already hit their maximum Pell Grant.
 
-Status: 4/22/2015 - Referred to the Senate Committee on Health, Education, Labor and Pensions.
+Status: 4/22/2015 - Stuck in the Senate Committee on Health, Education, Labor and Pensions.
 
 
-**<a id="s143" target="_blank" href="https://www.popvox.com/bills/us/114/sres143">S.Res. 143 (Resolution supporting efforts to ensure that students have access to debt-free higher education)</a>** -
+**<a id="s143" target="_blank" href="https://www.congress.gov/bill/114th-congress/senate-resolution/143">S.Res. 143 (Resolution supporting efforts to ensure that students have access to debt-free higher education)</a>** -
 Senate version of the Democrat's <a href="#hr214">H.Res. 214</a>.
 
-Status: 4/21/2015 - Referred to the Senate Committee on Health, Education, Labor, and Pensions.
+Status: 4/21/2015 - Stuck in the Senate Committee on Health, Education, Labor, and Pensions.
 
 
-**<a id="s840" target="_blank" href="https://www.popvox.com/bills/us/114/s840">S. 840 (Student Loan Borrower Bill of Rights)</a>** -
+**<a id="s840" target="_blank" href="https://www.congress.gov/bill/114th-congress/senate-bill/840">S. 840 (Student Loan Borrower Bill of Rights)</a>** -
 The Senate version of Obama's proposal, introduced by Dick Durbin with major co-sponsor Elizabeth Warren.
 
-Status: 3/23/2015 - Referred to the Senate Committee on Health, Education, Labor and Pensions.
+Status: 3/23/2015 - Stuck in the Senate Committee on Health, Education, Labor and Pensions.
 
 
-**<a id="s793" target="_blank" href="https://www.popvox.com/bills/us/114/s793">S. 793 (Bank on Students Emergency Loan Refinancing Act)</a>** -
+**<a id="s793" target="_blank" href="https://www.congress.gov/bill/114th-congress/senate-bill/793">S. 793 (Bank on Students Emergency Loan Refinancing Act)</a>** -
 Elizabeth Warren's bill to give student loan borrowers the same interest rate as 'Too Big To Fail' banks. President Obama has voiced support for the bill. Major co-sponsor Sherrod Brown. Formerly reintroduced as S. 2432 in the 113th Congress which was voted down in the Senate by <a title="37 Republican Senators Who Voted Against The Bill" target="_blank" href="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10377081_10152468211883118_6039966113336529880_n.jpg">these Republicans</a> on 6/11/2014. Formerly S. 897 in the 113th Congress.
 
-Status: 3/18/2015 - Reintroduced and referred to the Senate Committee on Finance.
+Status: 3/18/2015 - Stuck in the Senate Committee on Finance.
 
 
-**<a id="s729" target="_blank" href="https://www.popvox.com/bills/us/114/s729">S. 729 (Fairness for Struggling Students Act of 2015)</a>** -
+**<a id="s729" target="_blank" href="https://www.congress.gov/bill/114th-congress/senate-bill/729">S. 729 (Fairness for Struggling Students Act of 2015)</a>** -
 Only in 2005, one year after Sallie Mae became 100% private, did private student loans suddenly get protected from consumer bankruptcy laws. This is not the best solution since it would encourage people to borrow during college and then declare bankruptcy upon graduation, but it would be better than not acting on the problem.
 Fomerly S. 3219 (Private Student Loan Bankruptcy Fairness Act of 2010) which got stuck in the Senate Committee on the Judiciary and then S. 1102 (Private Student Loan Bankruptcy Fairness Act of 2011) and S. 114 (Fairness for Struggling Students Act of 2013) where both also died in the same committee.
 
-Status: 3/12/2015 - Referred to Senate Committee on the Judiciary.
+Status: 3/12/2015 - Stuck in Senate Committee on the Judiciary.
 
 
-**<a id="s108" target="_blank" href="https://www.popvox.com/bills/us/114/s108">S. 108 (Financial Aid Simplification and Transparency [FAST] Act)</a>** -
+**<a id="s108" target="_blank" href="https://www.congress.gov/bill/114th-congress/senate-bill/108">S. 108 (Financial Aid Simplification and Transparency [FAST] Act)</a>** -
 Bipartisan bill to reduce the FAFSA from 108 questions to 2.
 
-Status: 1/7/2015 - Referred to the Senate Committee on Health, Education, Labor and Pensions.
+Status: 1/7/2015 - Stuck in the Senate Committee on Health, Education, Labor and Pensions.
 
 
-**<a id="s2230" target="_blank" href="https://www.popvox.com/bills/us/113/sr2230">S. 2230 (Investing in Student Success Act of 2014)</a>** -
+**<a id="s2230" target="_blank" href="https://www.congress.gov/bill/113th-congress/senate-bill/2230">S. 2230 (Investing in Student Success Act of 2014)</a>** -
 Rubio's Income Share Arrangement (ISA) legislation touted by Purdue's Mitch Daniels wherein investors could finance college for a student and the student would agree to pay back a percentage of income for a fixed number of years. The investors only earn a profit if the student is successful.
 This model has been attempted in the past by companies like <a href="https://en.wikipedia.org/wiki/MyRichUncle">Iempower (MyRichUncle)</a> and more recently <a href="http://opinionator.blogs.nytimes.com/2011/05/30/instead-of-student-loans-investing-in-futures/">Lumni</a>. It's also known as human capital investment.
 
 Status: 4/9/2014 - Stuck in the Senate Committee on Finance.
 
 
-**<a id="s1266" target="_blank" href="https://www.popvox.com/bills/us/113/s1266">S. 1266 (Federal Student Loan Refinancing Act)</a>** -
+**<a id="s1266" target="_blank" href="https://www.congress.gov/bill/113th-congress/senate-bill/1266">S. 1266 (Federal Student Loan Refinancing Act)</a>** -
 Authorize the Department of the Treasury to create opportunities for private student loan borrowers to take advantage of the current low interest rates will ensure that borrowers pay rates that reflect their credit risk so that they may pursue economically productive activities like buying a home or starting a small business.
 
 Status: 7/1/2013 - Announced by the Sponsor Senator Sherrod Brown
 
 
-**<a id="s1066" target="_blank" href="https://www.popvox.com/bills/us/113/s1066">S. 1066 (Federal Student Loan Refinancing Act)</a>** -
+**<a id="s1066" target="_blank" href="https://www.congress.gov/bill/113th-congress/senate-bill/1066">S. 1066 (Federal Student Loan Refinancing Act)</a>** -
 Dept. of Ed. FFELP and Direct Loans carrying interest rates above 4% would automatically change into fixed 4% loans.
 
 Status: 5/19/2013 - Announced by the Sponsor Senator Kirsten Gillibrand
 
 
-**<a id="s1541" target="_blank" href="https://www.popvox.com/bills/us/112/s1068">S. 1068 (Private Student Loan Debt Swap Act of 2011)</a>** -
+**<a id="s1541" target="_blank" href="https://www.congress.gov/bill/112th-congress/senate-bill/1068">S. 1068 (Private Student Loan Debt Swap Act of 2011)</a>** -
 This is Senator Brown's (D-OH) bill. It's way better than the bankruptcy versions below since it wouldn't severely negatively affect our credit score.
 Formerly S. 1541 (Private Student Loan Debt Swap Act of 2009) which got stuck in Senate Committee on Health, Education, Labor, and Pensions.
 
-Status: 5/25/2011 - Referred to Senate Committee on Health, Education, Labor, and Pensions. 
+Status: 5/25/2011 - Stuck in Senate Committee on Health, Education, Labor, and Pensions. 
 
 
-**<a id="s2733">S. 2733 (Private Education Loan Ombudsman Act)</a>** -
+**<a id="s2733" target="_blank" href="https://www.congress.gov/bill/111th-congress/senate-bill/2733">S. 2733 (Private Education Loan Ombudsman Act)</a>** -
 This is Senator Brown's (D-OH) bill. It's a good step towards holding Sallie Mae's despicable practices accountable.
 
 Status: 11/5/2009 - Stuck in Senate Committee on Health, Education, Labor, and Pensions.
 
 
-**<a id="s3281">S. 3281 (Forgiveness and Repayment Assistance Act of 2010)</a>** -
+**<a id="s3281" target="_blank" href="https://www.congress.gov/bill/111th-congress/senate-bill/3281">S. 3281 (Forgiveness and Repayment Assistance Act of 2010)</a>** -
 Lowers payment amounts from 10% to 7% for the Federal Direct income-based repayment plans and lowers forgiveness from 20 years to 15 years for 2014+ students only.
 
 Status: 4/29/2010 - Stuck in Senate Committee on Health, Education, Labor, and Pensions.
@@ -124,12 +142,6 @@ Status: 5/9/2007 - House version (H.R. 890) passed. Never voted on in Senate.
 
 
 ## House Bills
-
-**<a id="hr3861" target="_blank" href="https://popvox.com/bills/us/114/hr3861">H.R. 3861 (Employer Participation in Student Loan Assistance Act)</a>** -
-Expands Section 127 law (which allows employers to offer up to $5250 in annual education assistance) to include past education (student loan reimbursement), not just current and future (tuition reimbursement).
-
-Status: 10/29/2015 - Referred to the House Committee on Ways and Means.
-
 
 **<a id="hr3451" target="_blank" href="https://www.popvox.com/bills/us/114/hr3451">H.R. 3451 (Student Loan Bankruptcy Parity Act of 2015)</a>** -
 Similar to <a href="#hr449">H.R. 449</a>, a one pager to return Chapter 11 bankruptcy protections to student loans.
