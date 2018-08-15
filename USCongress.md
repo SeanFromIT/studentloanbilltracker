@@ -6,6 +6,12 @@ Bipartisan bill to stops state from making laws that result in the revocation of
 Status: 6/14/2018 - Referred to the Senate Committee on Health, Education, Labor, and Pensions.
 
 
+**<a id="s848" target="_blank" href="https://www.popvox.com/us/federal/bills/115/s848">S. 848 (Reigniting Opportunity for Innovators Act)</a>** -
+Provides student loan deferment and/or cancellation for founders and employees of small business startups.
+
+Status: 4/5/2017 - Referred to the Senate Committee on Health, Education, Labor, and Pensions.
+
+
 **<a id="s799" target="_blank" href="https://www.popvox.com/us/federal/bills/115/s799">S. 799 (Dynamic Repayment Act of 2017)</a>** -
 Bipartisan bill to simplify and improve the Federal student loan program through income-contingent repayment to provide stronger protections for borrowers, encourage responsible borrowing, and save money for taxpayers.
 
@@ -13,9 +19,19 @@ Status: 5/30/2017 - Referred to the Senate Committee on Finance.
 
 
 **<a id="s796" target="_blank" href="https://www.popvox.com/us/federal/bills/115/s796">S.796 (Employer Participation in Repayment Act of 2017)</a>** -
-Expands Section 127 law (which allows employers to offer up to $5250 in annual education assistance) to include past education (student loan reimbursement), not just current and future (tuition reimbursement). Formerly H.R. 3861 in the 114th Congress where it got stuck in the House Committee on Ways and Means.
+Expands Section 127 law (which allows employers to offer up to $5250 in annual education assistance) to include past education (student loan reimbursement), not just current and future (tuition reimbursement). 
+Formerly H.R. 3861 in the 114th Congress where it died in the House Committee on Ways and Means.
 
 Status: 3/30/2017 - Referred to the Senate Committee on Finance.
+
+
+**<a id="s268" target="_blank" href="https://www.popvox.com/us/federal/bills/115/s268">S. 268 (Investing in Student Success Act of 2017)</a>** -
+Rubio's Income Share Arrangement (ISA) legislation touted by Purdue's Mitch Daniels wherein investors could finance college for a student and the student would agree to pay back a percentage of income for a fixed number of years. The investors only earn a profit if the student is successful.
+This model has been attempted in the past by companies like <a href="https://en.wikipedia.org/wiki/MyRichUncle">Iempower (MyRichUncle)</a> and more recently <a href="http://opinionator.blogs.nytimes.com/2011/05/30/instead-of-student-loans-investing-in-futures/">Lumni</a>. It's also known as human capital investment.
+The arrangement would be considered a qualified education loan (not dischargeable by bankruptcy). The agreements would also be exempt from state limits on interest rates and be considered gross income for tax purposes or as assets that impact eligibility for financial aid.
+Formerly S. 2230 in the 113th Congress where it died in the Senate Committee on Finance.
+
+Status: 2/1/2017 - Referred to the Senate Committee on Finance.
 
 
 **<a id="s2677" target="_blank" href="https://www.congress.gov/bill/114th-congress/senate-bill/2677">S. 2677 (In The RED Act)</a>** -
@@ -95,13 +111,6 @@ Status: 3/12/2015 - Stuck in Senate Committee on the Judiciary.
 Bipartisan bill to reduce the FAFSA from 108 questions to 2.
 
 Status: 1/7/2015 - Stuck in the Senate Committee on Health, Education, Labor and Pensions.
-
-
-**<a id="s2230" target="_blank" href="https://www.congress.gov/bill/113th-congress/senate-bill/2230">S. 2230 (Investing in Student Success Act of 2014)</a>** -
-Rubio's Income Share Arrangement (ISA) legislation touted by Purdue's Mitch Daniels wherein investors could finance college for a student and the student would agree to pay back a percentage of income for a fixed number of years. The investors only earn a profit if the student is successful.
-This model has been attempted in the past by companies like <a href="https://en.wikipedia.org/wiki/MyRichUncle">Iempower (MyRichUncle)</a> and more recently <a href="http://opinionator.blogs.nytimes.com/2011/05/30/instead-of-student-loans-investing-in-futures/">Lumni</a>. It's also known as human capital investment.
-
-Status: 4/9/2014 - Stuck in the Senate Committee on Finance.
 
 
 **<a id="s1266" target="_blank" href="https://www.congress.gov/bill/113th-congress/senate-bill/1266">S. 1266 (Federal Student Loan Refinancing Act)</a>** -

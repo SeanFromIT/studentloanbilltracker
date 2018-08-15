@@ -1,4 +1,4 @@
-*Last updated: 8 July 2018*
+*Last updated: 15 August 2018*
 
 If you like a bill, tell your senator or representative to co-sign it.
 
