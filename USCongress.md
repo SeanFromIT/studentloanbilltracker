@@ -157,8 +157,9 @@ Requires colleges to submit plans to keep inflation low, as well as asks wealthy
 
 Status: 5/22/2018 - Referred to House Committee on Ways and Means and simultaneously Education and the Workforce
 
-**<a id="hr" target="_blank" href="">H.R. 4508 (PROSPER Act of 2017)</a>** -
-Republican education bill vaguely inspired by Trump's stump speeches that eliminates the Public Service Loan Forgiveness program, forbearances, and squashes all IBR/IDR plans to just one 15% of income above 150% poverty line (for family size) IBR plan.
+
+**<a id="hr4508" target="_blank" href="https://www.popvox.com/us/federal/bills/115/hr4508">H.R. 4508 (PROSPER Act of 2017)</a>** -
+Republican education bill vaguely inspired by Trump's stump speeches that eliminates the Public Service Loan Forgiveness program, forbearances, and squashes all IBR/IDR plans to just one 15% of income above 150% poverty line (for family size) IBR plan with no forgiveness after X years, although they do cap the total amount to be repaid to the same as you would have paid under the 10-year standard repayment plan.
 Repeals gainful employment requirements and sets the statute of limitations for Borrower Defense actions to 3 years.
 Increases the number of times federal student loans can be rehabbed from one to two.
 Exempts 529 college savings plans from being considered an asset for determination of need (FAFSA).
@@ -166,8 +167,8 @@ Reauthorizes the Pell grant through 2024 and adds a $300 bonus for students taki
 Phases out the Federal Direct Loan Program between 2019-2024 in favor of a Federal ONE Loan program, which would make disbursements weekly or monthly instead of all at the beginning of a semester.
 Raises various annual loan limits, but sets aggregate limits at $60,250 for undergrad, $150,000 for graduate degrees.
 For comparison, the 2018 annual cost of attendance at MIT is $70,240 (with an aggregate cost of $280,960 for a degree).
-This would effectively eliminate middle class students' ability to attend institutions who do not maintain large endowments,
-while upper class students with large 529 accounts who work or otherwise delay enrollment long enough to be considered independent would now be eligible for aid meant to raise the lower class out of poverty.
+This would effectively eliminate middle-class students' ability to attend institutions who do not maintain large endowments,
+while upper-class students with large 529 accounts who work or otherwise delay enrollment long enough to be considered independent would now be eligible for aid meant to raise the lower-class out of poverty.
 Repeals/eliminates Academic Competitiveness Grants, Federal Supplemental Educational Opportunity Grant (FSEOG), Leveraging Educational Assistance Partnership (LEAP), Byrd Honors Scholarship, TEACH Grants, science and technology advanced foreign language education grants, Jacob K. Javits Fellowship program and the Thurgood Marshall Legal Educational
 Opportunity Program.
 Various other Republican red meat such as discouraging "free speech zones" on campuses, not excluding religious student organizations or student social organizations of a single-sex,
@@ -176,6 +177,28 @@ and eliminating federal funding for the <a target="_blank" href="https://www.usi
 <a target="_blank" href="http://www.acenet.edu/news-room/Documents/ACE-Summary-of-House-Prosper-Act.pdf">Full summary of this bill</a>.
 
 Status: 2/9/2018 - Passed the House Committee on Education and the Workforce and placed on the Union Calendar for floor vote consideration.
+
+
+**<a id="hr1937" target="_blank" href="https://www.popvox.com/us/federal/bills/115/hr1937">H.R. 1937 (Student Security Act of 2017)</a>** -
+Would allow you up to $99,000 in immediate federal student loan forgiveness in return for delaying your collection of social security benefits for up to 15 years, in $550 per month credits.
+The forgiveness would not be taxable. Theoretically, this could allow you to turn your federal student loan payment into private market retirement savings which may or may not be more than the forgone social security benefits.
+
+Status: 4/5/2017 - Referred to House Committee on Ways and Means and simultaneously Education and the Workforce. Ways and Means placed it in the Subcommittee on Social Security.
+
+
+**<a id="hr1614" target="_blank" href="https://www.congress.gov/bill/115th-congress/house-bill/1614">H.R. 1614 (Student Loan Refinancing Act)</a>** -
+Would allow you to lower the interest rate (to match) on your Federal Direct Loans whenever current students get a better rate than you did.
+
+Status: 3/17/2017 - Referred to House Committee on Education and the Workforce.
+
+
+**<a id="hr1127" target="_blank" href="https://www.popvox.com/us/federal/bills/115/hr1127">H.R. 1127 (Student Loan Fairness Act)</a>** -
+Establishes a 10/10 federal student loan repayment plan where you pay 10% of income above 150% poverty line (for family size) for 10 years, after which the remainder is forgiven. The forgiveness would not be taxable.
+Caps Federal Direct Loan interest rates at 3.4%. Reduces time to forgiveness for public service employees to 5 years, and includes doctors in underserved communities into the program.
+Allows you to consolidate private student loans as a Federal Direct Consolidation Loan if your average AGI for the past 3 years is equal to or less than your total outstanding student loan burden (private + federal), as long as the private loans were for a legitimate program.
+
+Status: 2/16/2017 - Referred to House Committee on Education and the Workforce and simultaneously Financial Services and Ways and Means.
+
 
 **<a id="hr3451" target="_blank" href="https://www.popvox.com/bills/us/114/hr3451">H.R. 3451 (Student Loan Bankruptcy Parity Act of 2015)</a>** -
 Similar to <a href="#hr449">H.R. 449</a>, a one pager to return Chapter 11 bankruptcy protections to student loans.
