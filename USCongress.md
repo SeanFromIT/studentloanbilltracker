@@ -19,8 +19,7 @@ Status: 5/30/2017 - Referred to the Senate Committee on Finance.
 
 
 **<a id="s796" target="_blank" href="https://www.popvox.com/us/federal/bills/115/s796">S.796 (Employer Participation in Repayment Act of 2017)</a>** -
-Expands Section 127 law (which allows employers to offer up to $5250 in annual education assistance) to include past education (student loan reimbursement), not just current and future (tuition reimbursement). 
-Formerly H.R. 3861 in the 114th Congress where it died in the House Committee on Ways and Means.
+Expands Section 127 law (which allows employers to offer up to $5250 in annual education assistance) to include past education (student loan reimbursement), not just current and future (tuition reimbursement).
 
 Status: 3/30/2017 - Referred to the Senate Committee on Finance.
 
@@ -200,28 +199,41 @@ Allows you to consolidate private student loans as a Federal Direct Consolidatio
 Status: 2/16/2017 - Referred to House Committee on Education and the Workforce and simultaneously Financial Services and Ways and Means.
 
 
+**<a id="hr795" target="_blank" href="https://www.popvox.com/us/federal/bills/115/hr795">H.R. 795 (Employer Participation in Student Loan Assistance Act)</a>** -
+House version of [S. 796](#s796). Formerly H.R. 3861 in the 114th Congress where it died in the House Committee on Ways and Means.
+
+Status: 2/1/2017 - Referred to House Committee on Ways and Means.
+
+
+**<a id="hr615" target="_blank" href="https://www.popvox.com/us/federal/bills/115/hr615">H.R. 615 (Student Loan Repayment Act of 2017)</a>** -
+Provides a tax credits to employers who hire degreed individuals with over $10,000 in student loan debt, including for the setup and administration of matching student loan payment programs.
+The credit does not apply to the match payments themselves.
+
+Status: 1/23/2017 - Referred to House Committee on Ways and Means.
+
+
 **<a id="hr3451" target="_blank" href="https://www.popvox.com/bills/us/114/hr3451">H.R. 3451 (Student Loan Bankruptcy Parity Act of 2015)</a>** -
 Similar to <a href="#hr449">H.R. 449</a>, a one pager to return Chapter 11 bankruptcy protections to student loans.
 
-Status: 9/28/2015 - Referred to House Committee on Regulatory Reform, Commercial And Antitrust Law.
+Status: 9/28/2015 - Stuck in House Committee on Regulatory Reform, Commercial And Antitrust Law.
 
 
 **<a id="hr2590" target="_blank" href="https://www.popvox.com/bills/us/114/hr2590">H.R. 2590 (Young Farmer Success Act of 2015)</a>** -
 Adds farming to the list of professions covered by the Public Service Loan Forgiveness Program.
 
-Status: 11/16/2015 - Referred to House Committee on Education and the Workforce's Subcommittee on Higher Education and Workforce Training.
+Status: 11/16/2015 - Stuck in House Committee on Education and the Workforce's Subcommittee on Higher Education and Workforce Training.
 
 
 **<a id="hr4102" target="_blank" href="https://www.popvox.com/bills/us/114/hr4102">H.R. 4102 (Student Loan Relief Act of 2015)</a>** -
 Would allow private banks to get back into the public guaranteed student loan business (outlawed since 2010) under the guise of student loan refinancing.
 
-Status: 11/19/2015 - Referred to House Committee on Ways and Means.
+Status: 11/19/2015 - Stuck in House Committee on Ways and Means.
 
 
 **<a id="hr2962" target="_blank" href="https://popvox.com/bills/us/114/hr2962">H.R. 2962 (America's College Promise Act of 2015)</a>** -
 Baldwin's answer to Obama's call to make community college tuition-free. For every $1 a state spends, the Federal government would chip in $3.
 
-Status: 11/19/2015 - Referred to House Committee on Ways and Means.
+Status: 11/19/2015 - Stuck in House Committee on Ways and Means.
 
 
 **<a id="hr2029" target="_blank" href="https://popvox.com/bills/us/114/hr2029">H.R. 2029 (Consolidated Appropriations Act, 2016)</a>** -
@@ -233,13 +245,13 @@ Status: 12/18/2015 - Passed and signed by Obama into law.
 **<a id="hr214" target="_blank" href="https://www.popvox.com/bills/us/114/hres214">H.Res. 214 (Resolution supporting efforts to ensure that students have access to debt-free higher education)</a>** -
 Congressional Progressive Caucus' non-binding resolution stating support for debt-free higher education and reducing the burden of existing student loan debt.
 
-Status: 4/21/2015 - Referred to House Committee on Education and the Workforce.
+Status: 4/21/2015 - Stuck in House Committee on Education and the Workforce.
 
 
 **<a id="hr1713" target="_blank" href="https://www.popvox.com/bills/us/114/hr1713">H.R. 1713 (Student Loan Repayment Assistance Act of 2015)</a>** -
 Provides tax breaks to employers who make (minimum $50) monthly payments towards their employees' student loan debt. The payments are excluded from the employees' gross income for federal tax purposes and are capped at $6000/year. Also allows for matching deductible employee contributions up to $6000/year and $50k/lifetime.
 
-Status: 3/26/2015 - Referred to House Committee on Ways and Means.
+Status: 3/26/2015 - Stuck in House Committee on Ways and Means.
 
 
 **<a id="hr1434" target="_blank" href="https://www.popvox.com/bills/us/114/hr1434">H.R. 1434 (Bank on Students Loan Fairness Act)</a>** -
@@ -251,7 +263,7 @@ Status: 3/18/2015 - Reintroduced by Joe Courtney into the House.
 **<a id="hr1352" target="_blank" href="https://www.popvox.com/bills/us/114/hr1352">H.R. 1352 (Student Loan Borrowers' Bill of Rights Act)</a>** -
 The House version of Obama's proposal. Returns Chapter 11 bankruptcy protections to student loans, excludes any forgiven student loan debt from taxes, limits defaulted student loan bill collection activities to six years, and strengthens flexible repayment options.
 
-Status: 3/10/2015 - Referred to House Committees on Education and the Workforce, Ways and Means, the Judiciary, and Oversight and Government Reform.
+Status: 3/10/2015 - Stuck in House Committees on Education and the Workforce, Ways and Means, the Judiciary, and Oversight and Government Reform.
 
 
 **<a id="hr1314" target="_blank" href="https://www.popvox.com/bills/us/114/hr1314">H.R. 1314 (Bipartisan Budget Act of 2015)</a>** -
@@ -263,7 +275,7 @@ Status: 11/2/2015 - Passed and signed by Obama into law.
 **<a id="hr449" target="_blank" href="https://www.congress.gov/bill/114th-congress/house-bill/449/text">H.R. 449 (Discharge Student Loans in Bankruptcy Act of 2015)</a>** -
 Returns Chapter 11 bankruptcy protections to student loans.
 
-Status: 1/21/2015 - Referred to House Committee on the Judiciary.
+Status: 1/21/2015 - Stuck in House Committee on the Judiciary.
 
 
 **<a id="hr4436" target="_blank" href="https://www.popvox.com/bills/us/113/hr4436">H.R. 4436 (Investing in Student Success Act of 2014)</a>** -
@@ -282,7 +294,7 @@ Status: 1/15/2014 - Reintroduced by Boxer, Durbin, Warren, Reed. Formerly stuck,
 House version of S. 114.
 Formerly H.R. 5043 (Private Student Loan Bankruptcy Fairness Act of 2010) which passed Commercial and Administrative Law subcommittee but got stuck in House Judiciary committee and then H.R. 2028 (Private Student Loan Bankruptcy Fairness Act of 2011) which also died in the same committee.
 
-Status: 2/6/2013 - Referred to House Committee on the Judiciary.
+Status: 2/6/2013 - Stuck in House Committee on the Judiciary.
 
 
 **<a id="hr395" target="_blank" href="https://popvox.com/bills/us/113/hr395">H.R. 395 (Student Loan Employment Benefits Act of 2013)</a>** -
@@ -294,13 +306,13 @@ Status: 1/23/2013 - Stuck in House Committee on Ways and Means.
 **<a id="hr4170" target="_blank" href="https://www.popvox.com/bills/us/112/hr4170">H.R. 4170 (Student Loan Forgiveness Act of 2012)</a>** -
 The "10/10" plan. Repayment capped at 10% disposable income, remainder forgiven after 10 years. New borrowers after bill passed will only be able to have first $45,520 forgiven to prevent "moral hazard." Old borrowers are safe. Reduces public service forgiveness to 5 years. 3.4% cap on all new Fed loans including the private loans you can now consolidate with the Fed.
 
-Status: 5/26/2011 - Referred to House Committee on Education and the Workforce.
+Status: 5/26/2011 - Stuck in House Committee on Education and the Workforce.
 
 
 **<a id="hr953" target="_blank" href="https://www.popvox.com/bills/us/112/hr953">H.R. 953 (Make College Affordable Act of 2011)</a>** -
 Ron Paul's plan to make higher education more affordable by providing a full tax deduction for higher education expenses and interest on student loans.
 
-Status: 3/8/2011 - Referred to House Committee on Ways and Means.
+Status: 3/8/2011 - Stuck in House Committee on Ways and Means.
 
 
 **<a id="hr5458">H.R. 5458 (Christopher Bryski Student Loan Protection Act)</a>** -
@@ -318,13 +330,13 @@ Status: 4/20/2010 - Stuck in House Committee on Ways and Means.
 **<a id="hr5055">H.R. 5055 (College Debt Swap Act of 2010)</a>** -
 House version of Brown's S. 1541. The "adverse credit history" clause is worrying. If we can't pay the private student loans now, hence the reason for this bill, we're going to have adverse credit history.
 
-Status: 4/30/2010 - In process. Currently in House Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.
+Status: 4/30/2010 - Stuck in House Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.
 
 
 **<a id="hr4834">H.R. 4834 (Student Debt Reduction Act)</a>** -
 Extends 2014+ repayment terms and repayment amounts to all Federal Direct customers.
 
-Status: 4/30/2010 - In process. Currently in House Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.
+Status: 4/30/2010 - Stuck in House Subcommittee on Higher Education, Lifelong Learning, and Competitiveness.
 
 
 **<a id="hr4574">H.R. 4574 (Student Loan Interest Full Deductibility Act)</a>** -
