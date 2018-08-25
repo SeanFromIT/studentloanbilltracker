@@ -184,6 +184,13 @@ and eliminating federal funding for the <a target="_blank" href="https://www.usi
 Status: 2/9/2018 - Passed the House Committee on Education and the Workforce and placed on the Union Calendar for floor vote consideration.
 
 
+**<a id="hr2366" target="_blank" href="https://www.popvox.com/us/federal/bills/115/hr2366">H.R. 2366 (Discharge Student Loans in Bankruptcy Act of 2017)</a>** -
+A one pager to return Chapter 11 bankruptcy protections to student loans.
+Formerly H.R. 3451 (Student Loan Bankruptcy Parity Act of 2015) which got stuck in the House Committee on Regulatory Reform, Commercial And Antitrust Law.
+
+Status: 6/7/2017 - Referred to Subcommittee on Regulatory Reform, Commercial and Antitrust Law of the House Judiciary Committee.
+
+
 **<a id="hr2042" target="_blank" href="https://www.popvox.com/us/federal/bills/115/hr2042">H.R. 2042 (Access to Frontline Health Care Act of 2017)</a>** -
 Would establish a federal student loan repayment program for "frontline" healthcare providers in areas of healthcare scarcity who commit for two years. Frontline care services include services in the fields of surgery, optometry, physical therapy, pharmacies, public health, dietetics, occupational therapy, pediatrics, and medical technology.
 
@@ -258,12 +265,6 @@ Status: 3/14/2018 - Rep. Cicilline took over sponsorship from former Rep. Conyer
 Provides a tax credit of 10% of the student loan payments made by employers on behalf of their employees. The overall payment per employee cannot exceed $500/month.
 
 Status: 1/3/2017 - Referred to House Committee on Ways and Means.
-
-
-**<a id="hr3451" target="_blank" href="https://www.congress.gov/bill/114th-congress/house-bill/3451">H.R. 3451 (Student Loan Bankruptcy Parity Act of 2015)</a>** -
-Similar to <a href="#hr449">H.R. 449</a>, a one pager to return Chapter 11 bankruptcy protections to student loans.
-
-Status: 9/28/2015 - Stuck in House Committee on Regulatory Reform, Commercial And Antitrust Law.
 
 
 **<a id="hr2590" target="_blank" href="https://www.congress.gov/bill/114th-congress/house-bill/2590">H.R. 2590 (Young Farmer Success Act of 2015)</a>** -
