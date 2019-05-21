@@ -1,9 +1,9 @@
 ## Senate Bills
 
-**<a id="s3771" target="_blank" href="https://www.congress.gov/bill/115th-congress/senate-bill/3771">S. 3771 (Retirement Parity for Student Loans Act)</a>** -
-Forces your employer to match your student loan repayments dollar for dollar up to their 401(k) matching limit. Empowers them to pay more than that if they wish.
+**<a id="s1428" target="_blank" href="https://www.congress.gov/bill/116th-congress/senate-bill/1428">S. 1428 (Retirement Parity for Student Loans Act)</a>** -
+Formerly S. 3771 in the 115th. Forces your employer to match your student loan repayments dollar for dollar up to their 401(k) matching limit. Empowers them to pay more than that if they wish. Note: This is also bundled in [S. 1431 (The Retirement Security and Savings Act of 2019)](https://www.congress.gov/bill/116th-congress/senate-bill/1431/).
 
-Status: 12/18/2018 - Introduced.
+Status: 05/13/2019 - Re-introduced and referred to the Senate Committee on Finance.
 
 **<a id="s3065" target="_blank" href="https://www.popvox.com/us/federal/bills/115/s3065">S. 3065 (Protecting JOBs Act)</a>** -
 Bipartisan bill to stops state from making laws that result in the revocation of state-issued professional and teaching licenses, as well as driver licenses solely on the basis of a federal student loan default.
