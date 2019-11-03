@@ -1,5 +1,10 @@
 ## Senate Bills
 
+**<a id="s1428" target="_blank" href="https://www.congress.gov/bill/116th-congress/senate-bill/1428">S. 1428 (Retirement Parity for Student Loans Act)</a>** -
+Formerly S. 3771 in the 115th. Forces your employer to match your student loan repayments dollar for dollar up to their 401(k) matching limit. Empowers them to pay more than that if they wish. Note: This is also bundled in [S. 1431 (The Retirement Security and Savings Act of 2019)](https://www.congress.gov/bill/116th-congress/senate-bill/1431/).
+
+Status: 05/13/2019 - Re-introduced and referred to the Senate Committee on Finance.
+
 **<a id="s3065" target="_blank" href="https://www.popvox.com/us/federal/bills/115/s3065">S. 3065 (Protecting JOBs Act)</a>** -
 Bipartisan bill to stops state from making laws that result in the revocation of state-issued professional and teaching licenses, as well as driver licenses solely on the basis of a federal student loan default.
 
@@ -134,7 +139,7 @@ Status: 5/19/2013 - Announced by the Sponsor Senator Kirsten Gillibrand
 This is Senator Brown's (D-OH) bill. It's way better than the bankruptcy versions below since it wouldn't severely negatively affect our credit score.
 Formerly S. 1541 (Private Student Loan Debt Swap Act of 2009) which got stuck in Senate Committee on Health, Education, Labor, and Pensions.
 
-Status: 5/25/2011 - Stuck in Senate Committee on Health, Education, Labor, and Pensions. 
+Status: 5/25/2011 - Stuck in Senate Committee on Health, Education, Labor, and Pensions.
 
 
 **<a id="s2733" target="_blank" href="https://www.congress.gov/bill/111th-congress/senate-bill/2733">S. 2733 (Private Education Loan Ombudsman Act)</a>** -
@@ -156,6 +161,11 @@ Status: 5/9/2007 - House version (H.R. 890) passed. Never voted on in Senate.
 
 
 ## House Bills
+
+**<a id="hr1994" target="_blank" href="https://www.congress.gov/bill/116th-congress/house-bill/1994/">H.R. 1994 (SECURE Act of 2019)</a>** -
+Omni retirement bill that included <a href="#hr283">H.R. 283</a>'s expansion of 529 plans to include spending up to $10k towards student loans.
+
+Status: 4/2/2019 - Passed the House Committee on Ways and Means
 
 **<a id="hr5916" target="_blank" href="https://www.popvox.com/us/federal/bills/115/hr5916">H.R. 5916 (REDUCE Act of 2018)</a>** -
 Requires colleges to submit plans to keep inflation low, as well as asks wealthy universities to distribute profits from their endowments to assist students coming from working-class families.
@@ -207,7 +217,7 @@ Status: 4/5/2017 - Referred to House Committee on Ways and Means and simultaneou
 **<a id="hr1656" target="_blank" href="https://www.popvox.com/us/federal/bills/115/hr1656">H.R. 1656 (HELP [Higher Education Loan Payments] for Students and Parents Act)</a>** -
 Bi-partisan bill to allow a tax exclusion for employer-provided educational assistance programs. It excludes employer payments towards employee student loans - or to 529 savings accounts - from the employee's gross income. It also provides a tax credit of 50% of the payments made by the employer. The overall annual payment per employee cannot exceed the current Section 127 limit of $5250.
 
-Status: 3/21/2017 - Referred to House Committee on 
+Status: 3/21/2017 - Referred to House Committee on Ways and Means.
 
 
 **<a id="hr1614" target="_blank" href="https://www.congress.gov/bill/115th-congress/house-bill/1614">H.R. 1614 (Student Loan Refinancing Act)</a>** -
@@ -367,11 +377,11 @@ Status: 3/8/2011 - Stuck in House Committee on Ways and Means.
 **<a id="hr5458" target="_blank" href="https://www.congress.gov/bill/111th-congress/house-bill/5458">H.R. 5458 (Christopher Bryski Student Loan Protection Act)</a>** -
 Increase transparency and disclosure requirements for private loans, and provide for relief if the borrower died. Does not help monthly payments.
 
-Status: 9/29/2010 - Passed to Senate. Stuck there in Senate Committee on Health, Education, Labor, and Pensions. 
+Status: 9/29/2010 - Passed to Senate. Stuck there in Senate Committee on Health, Education, Labor, and Pensions.
 
 
 **<a id="hr5078" target="_blank" href="https://www.congress.gov/bill/111th-congress/house-bill/5078">H.R. 5078 (Higher Education Affordability and Equity Act of 2010)</a>** -
-Makes all educational expenses, including interest on student loans, tax deductible with no caps on amounts. 
+Makes all educational expenses, including interest on student loans, tax deductible with no caps on amounts.
 
 Status: 4/20/2010 - Stuck in House Committee on Ways and Means.
 
@@ -397,10 +407,10 @@ Status: 2/2/2010 - Stuck in House Committee on Ways and Means.
 **<a id="hr3149" target="_blank" href="https://www.congress.gov/bill/111th-congress/house-bill/3149">H.R. 3149 (Equal Employment for All Act)</a>** -
 Safeguards student loan debtors by preventing employers from making decisions based on credit scores.
 
-Status: 9/23/2010 - Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral. 
+Status: 9/23/2010 - Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral.
 
 
 **<a id="hr890" target="_blank" href="https://www.congress.gov/bill/110th-congress/house-bill/890">H.R. 890 (Student Loan Sunshine Act)</a>** -
 House version of Ted Kennedy's bill to increase transparency around student loans.
 
-Status: 5/9/2007 - Passed to Senate. 
+Status: 5/9/2007 - Passed to Senate.
