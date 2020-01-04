@@ -23,10 +23,11 @@ Bipartisan bill to simplify and improve the Federal student loan program through
 Status: 5/30/2017 - Referred to the Senate Committee on Finance.
 
 
-**<a id="s796" target="_blank" href="https://www.popvox.com/us/federal/bills/115/s796">S.796 (Employer Participation in Repayment Act of 2017)</a>** -
+**<a id="s460" target="_blank" href="https://www.popvox.com/us/federal/bills/116/s460">S. 460 (Employer Participation in Repayment Act of 2019)</a>** -
 Expands Section 127 law (which allows employers to offer up to $5250 in annual education assistance) to include past education (student loan reimbursement), not just current and future (tuition reimbursement).
+Formerly S. 796 in the 115th Congress where it died in the Senate Committee on Finance.
 
-Status: 3/30/2017 - Referred to the Senate Committee on Finance.
+Status: 2/12/2019 - Referred to the Senate Committee on Finance.
 
 
 **<a id="s487" target="_blank" href="https://www.popvox.com/us/federal/bills/115/s487">S. 487 (Veterinary Medicine Loan Repayment Program Enhancement Act)</a>** -
@@ -162,15 +163,20 @@ Status: 5/9/2007 - House version (H.R. 890) passed. Never voted on in Senate.
 
 ## House Bills
 
+**<a id="hr1043" target="_blank" href="https://www.popvox.com/us/federal/bills/116/hr1043">H.R. 1043 (Employer Participation in Repayment Act of 2019)</a>** -
+House version of [S. 460](#s460).
+
+Status: 2/7/2019 - Referred to the House Committee on Ways and Means.
+
 **<a id="hr1994" target="_blank" href="https://www.congress.gov/bill/116th-congress/house-bill/1994/">H.R. 1994 (SECURE Act of 2019)</a>** -
 Omni retirement bill that included <a href="#hr283">H.R. 283</a>'s expansion of 529 plans to include spending up to $10k towards student loans.
 
-Status: 4/2/2019 - Passed the House Committee on Ways and Means
+Status: 4/2/2019 - Passed the House Committee on Ways and Means.
 
 **<a id="hr5916" target="_blank" href="https://www.popvox.com/us/federal/bills/115/hr5916">H.R. 5916 (REDUCE Act of 2018)</a>** -
 Requires colleges to submit plans to keep inflation low, as well as asks wealthy universities to distribute profits from their endowments to assist students coming from working-class families.
 
-Status: 5/22/2018 - Referred to House Committee on Ways and Means and simultaneously Education and the Workforce
+Status: 5/22/2018 - Referred to House Committee on Ways and Means and simultaneously Education and the Workforce.
 
 
 **<a id="hr4508" target="_blank" href="https://www.popvox.com/us/federal/bills/115/hr4508">H.R. 4508 (PROSPER Act of 2017)</a>** -
