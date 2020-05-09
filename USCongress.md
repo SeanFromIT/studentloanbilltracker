@@ -163,6 +163,11 @@ Status: 5/9/2007 - House version (H.R. 890) passed. Never voted on in Senate.
 
 ## House Bills
 
+**<a id="hr3448" target="_blank" href="https://www.congress.gov/bill/116th-congress/house-bill/3448/">H.R. 3448 (Student Debt Cancellation Act of 2019)</a>** -
+Ilhan Omar's bill to cancel all $1.6 trillion of (federal?) student debt.
+
+Status: 6/24/2019 - Referred to the Committee on Education and Labor and simultaneously Committees on Financial Services, and Ways and Means.
+
 **<a id="hr1043" target="_blank" href="https://www.popvox.com/us/federal/bills/116/hr1043">H.R. 1043 (Employer Participation in Repayment Act of 2019)</a>** -
 House version of [S. 460](#s460).
 
@@ -176,7 +181,7 @@ Status: 4/2/2019 - Passed the House Committee on Ways and Means.
 **<a id="hr5916" target="_blank" href="https://www.popvox.com/us/federal/bills/115/hr5916">H.R. 5916 (REDUCE Act of 2018)</a>** -
 Requires colleges to submit plans to keep inflation low, as well as asks wealthy universities to distribute profits from their endowments to assist students coming from working-class families.
 
-Status: 5/22/2018 - Referred to House Committee on Ways and Means and simultaneously Education and the Workforce.
+Status: 5/22/2018 - Referred to the House Committee on Ways and Means and simultaneously Education and the Workforce.
 
 
 **<a id="hr4508" target="_blank" href="https://www.popvox.com/us/federal/bills/115/hr4508">H.R. 4508 (PROSPER Act of 2017)</a>** -
