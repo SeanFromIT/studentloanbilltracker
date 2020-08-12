@@ -5,6 +5,12 @@ Formerly S. 3771 in the 115th. Forces your employer to match your student loan r
 
 Status: 05/13/2019 - Re-introduced and referred to the Senate Committee on Finance.
 
+**<a id="s1414" target="_blank" href="https://www.congress.gov/bill/116th-congress/senate-bill/1414">S. 1414 (Student Borrower Bankruptcy Relief Act of 2019)</a>** -
+Only in 2005, one year after Sallie Mae became 100% private, did private student loans suddenly get protected from consumer bankruptcy laws. This is not the best solution since it would encourage people to borrow during college and then declare bankruptcy upon graduation, but it would be better than not acting on the problem.
+Formerly S. 3219 (Private Student Loan Bankruptcy Fairness Act of 2010) which got stuck in the Senate Committee on the Judiciary and then S. 1102 (Private Student Loan Bankruptcy Fairness Act of 2011), S. 114 (Fairness for Struggling Students Act of 2013), and S. 729 (Fairness for Struggling Students Act of 2015), all having died in the same committee.
+
+Status: 5/9/2019 - Stuck in Senate Committee on the Judiciary.
+
 **<a id="s3065" target="_blank" href="https://www.popvox.com/us/federal/bills/115/s3065">S. 3065 (Protecting JOBs Act)</a>** -
 Bipartisan bill to stops state from making laws that result in the revocation of state-issued professional and teaching licenses, as well as driver licenses solely on the basis of a federal student loan default.
 
@@ -109,13 +115,6 @@ Status: 3/23/2015 - Stuck in the Senate Committee on Health, Education, Labor an
 Elizabeth Warren's bill to give student loan borrowers the same interest rate as 'Too Big To Fail' banks. President Obama has voiced support for the bill. Major co-sponsor Sherrod Brown. Formerly reintroduced as S. 2432 in the 113th Congress which was voted down in the Senate by <a title="37 Republican Senators Who Voted Against The Bill" target="_blank" href="https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10377081_10152468211883118_6039966113336529880_n.jpg">these Republicans</a> on 6/11/2014. Formerly S. 897 in the 113th Congress.
 
 Status: 3/18/2015 - Stuck in the Senate Committee on Finance.
-
-
-**<a id="s729" target="_blank" href="https://www.congress.gov/bill/114th-congress/senate-bill/729">S. 729 (Fairness for Struggling Students Act of 2015)</a>** -
-Only in 2005, one year after Sallie Mae became 100% private, did private student loans suddenly get protected from consumer bankruptcy laws. This is not the best solution since it would encourage people to borrow during college and then declare bankruptcy upon graduation, but it would be better than not acting on the problem.
-Formerly S. 3219 (Private Student Loan Bankruptcy Fairness Act of 2010) which got stuck in the Senate Committee on the Judiciary and then S. 1102 (Private Student Loan Bankruptcy Fairness Act of 2011) and S. 114 (Fairness for Struggling Students Act of 2013) where both also died in the same committee.
-
-Status: 3/12/2015 - Stuck in Senate Committee on the Judiciary.
 
 
 **<a id="s108" target="_blank" href="https://www.congress.gov/bill/114th-congress/senate-bill/108">S. 108 (Financial Aid Simplification and Transparency [FAST] Act)</a>** -
