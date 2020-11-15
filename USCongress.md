@@ -162,6 +162,12 @@ Status: 5/9/2007 - House version (H.R. 890) passed. Never voted on in Senate.
 
 ## House Bills
 
+**<a id="hr8696" target="_blank" href="https://www.congress.gov/bill/116th-congress/house-bill/8696/">H.R. 8696 (The Securing a Strong Retirement Act of 2020)</a>** -
+Bipartisan bill introduced by Neal & Brady to give tax benefits to employers for chaining matching retirement contributions to employee student loan payments. It "would allow employers to make matching contributions under a 401(k), 403(b) or SIMPLE IRA based on 'qualified student loan payments.'
+
+Status: 10/27/2020 - Referred to the Committee on Ways and Means.
+
+
 **<a id="hr3448" target="_blank" href="https://www.congress.gov/bill/116th-congress/house-bill/3448/">H.R. 3448 (Student Debt Cancellation Act of 2019)</a>** -
 Ilhan Omar's bill to cancel all $1.6 trillion of (federal?) student debt.
 
