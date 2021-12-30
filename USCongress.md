@@ -1,15 +1,13 @@
 ## Senate Bills
 
+**<a id="s2598" target="_blank" href="https://www.popvox.com/us/federal/bills/117/s2598">S. 2598 (FRESH START Through Bankruptcy Act)</a>** - Only in 2005, one year after Sallie Mae became 100% private, did private student loans suddenly get protected from consumer bankruptcy laws. This is not the best solution since it would encourage people to borrow during college and then declare bankruptcy upon graduation, but it would be better than not acting on the problem. Formerly S. 3219 (Private Student Loan Bankruptcy Fairness Act of 2010) which got stuck in the Senate Committee on the Judiciary and then S. 1102 (Private Student Loan Bankruptcy Fairness Act of 2011), S. 114 (Fairness for Struggling Students Act of 2013), S. 729 (Fairness for Struggling Students Act of 2015), and S.1414 (Student Borrower Bankruptcy Relief Act of 2019) all having died in the same committee.
+
+Status 8/3/2021 - Re-introduced and referred to the Senate Committee on the Judiciary.
+
 **<a id="s1428" target="_blank" href="https://www.congress.gov/bill/116th-congress/senate-bill/1428">S. 1428 (Retirement Parity for Student Loans Act)</a>** -
 Formerly S. 3771 in the 115th. Forces your employer to match your student loan repayments dollar for dollar up to their 401(k) matching limit. Empowers them to pay more than that if they wish. Note: This is also bundled in [S. 1431 (The Retirement Security and Savings Act of 2019)](https://www.congress.gov/bill/116th-congress/senate-bill/1431/).
 
 Status: 05/13/2019 - Re-introduced and referred to the Senate Committee on Finance.
-
-**<a id="s1414" target="_blank" href="https://www.congress.gov/bill/116th-congress/senate-bill/1414">S. 1414 (Student Borrower Bankruptcy Relief Act of 2019)</a>** -
-Only in 2005, one year after Sallie Mae became 100% private, did private student loans suddenly get protected from consumer bankruptcy laws. This is not the best solution since it would encourage people to borrow during college and then declare bankruptcy upon graduation, but it would be better than not acting on the problem.
-Formerly S. 3219 (Private Student Loan Bankruptcy Fairness Act of 2010) which got stuck in the Senate Committee on the Judiciary and then S. 1102 (Private Student Loan Bankruptcy Fairness Act of 2011), S. 114 (Fairness for Struggling Students Act of 2013), and S. 729 (Fairness for Struggling Students Act of 2015), all having died in the same committee.
-
-Status: 5/9/2019 - Stuck in Senate Committee on the Judiciary.
 
 **<a id="s3065" target="_blank" href="https://www.popvox.com/us/federal/bills/115/s3065">S. 3065 (Protecting JOBs Act)</a>** -
 Bipartisan bill to stops state from making laws that result in the revocation of state-issued professional and teaching licenses, as well as driver licenses solely on the basis of a federal student loan default.
@@ -163,7 +161,7 @@ Status: 5/9/2007 - House version (H.R. 890) passed. Never voted on in Senate.
 ## House Bills
 
 **<a id="hr8696" target="_blank" href="https://www.congress.gov/bill/116th-congress/house-bill/8696/">H.R. 8696 (The Securing a Strong Retirement Act of 2020)</a>** -
-Bipartisan bill introduced by Neal & Brady to give tax benefits to employers for chaining matching retirement contributions to employee student loan payments. It "would allow employers to make matching contributions under a 401(k), 403(b) or SIMPLE IRA based on 'qualified student loan payments.'
+Bipartisan bill introduced by Neal & Brady to give tax benefits to employers for chaining matching retirement contributions to employee student loan payments. It "would allow employers to make matching contributions under a 401(k), 403(b) or SIMPLE IRA based on 'qualified student loan payments.'"
 
 Status: 10/27/2020 - Referred to the Committee on Ways and Means.
 
