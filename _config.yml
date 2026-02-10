@@ -2,6 +2,6 @@ repository: SeanFromIT/studentloanbilltracker
 theme: jekyll-theme-minimal
 title: Student Loan Bill Tracker
 description: Track the status of United States legislation to solve the student loan debt crisis.
-google_analytics: UA-936138-13
+google_analytics: G-990EQCNSK6
 plugins:
   - jekyll-sitemap
